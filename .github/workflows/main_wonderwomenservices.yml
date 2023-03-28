@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'WonderWomenServices'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_13DC2EB3B3AC42CABFCEF326D684496A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E97101DCF75F4474A342DE3843988947 }}
           package: .
